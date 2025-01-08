@@ -1,4 +1,4 @@
-wwwwwwwwwwwww# POE2 Seller Status Check Userscript
+POE2 Seller Status Check Userscript
 
 ## Description
 
